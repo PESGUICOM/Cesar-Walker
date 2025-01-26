@@ -1,4 +1,4 @@
-# César-Walker
+# César Walker
 💻 Aprendiendo Desarrollo de Software
 ¡Hola! 👋 Bienvenido a mi repositorio personal. Actualmente estoy en un emocionante viaje de aprendizaje y exploración en el mundo del desarrollo de software.
 
@@ -28,5 +28,3 @@ Control de versiones: Git y GitHub.
 Frameworks y librerías: Spring, Angular.
 📌 Nota
 Este repositorio será un registro vivo de mi aprendizaje. ¡Cualquier feedback o sugerencia será bienvenido! 😊
-
-🤝 Colabora o comparte tus ideas: Siéntete libre de explorar y contribuir a mis proyectos.
